@@ -26,7 +26,8 @@ class Person:
 lst = [
     Person("reza", 30, "iran"),
     Person("ali", 22, "iran"),
-    Person("alireza", 28, "iran")
+    Person("alireza", 28, "iran"),
+    Person("Rana", 24, "iran")
     ]
 
 filename="log.pickle"
