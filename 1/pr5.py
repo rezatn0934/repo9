@@ -1,0 +1,5 @@
+x= input()
+y, z = x.split()
+y_n =y.replace(y[0:2], z[0:2])
+z_n =y.replace(z[0:2], y[0:2])
+print(y_n, z_n)
